@@ -6,7 +6,7 @@
     <title>php-include-test</title>
 </head>
 <body>
-     <?php include "header.html" ?> 
+    <?php include "header.html" ?> 
     <h1>php-include-test</h1>
 
     
